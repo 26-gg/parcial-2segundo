@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Logica\\Logica.csproj": {}
+    "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Logica\\Logica.csproj": {}
   },
   "projects": {
-    "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\Datos.csproj": {
+    "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\Datos.csproj",
+        "projectUniqueName": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\Datos.csproj",
         "projectName": "Datos",
-        "projectPath": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\Datos.csproj",
+        "projectPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\Datos.csproj",
         "packagesPath": "C:\\Users\\EQUIPO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\obj\\",
+        "outputPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EQUIPO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj": {
-                "projectPath": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj"
+              "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj"
               }
             }
           }
@@ -44,7 +44,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -70,14 +70,14 @@
         }
       }
     },
-    "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj": {
+    "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj",
+        "projectPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\EQUIPO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\obj\\",
+        "outputPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EQUIPO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -128,14 +128,14 @@
         }
       }
     },
-    "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Logica\\Logica.csproj": {
+    "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Logica\\Logica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Logica\\Logica.csproj",
+        "projectUniqueName": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Logica\\Logica.csproj",
         "projectName": "Logica",
-        "projectPath": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Logica\\Logica.csproj",
+        "projectPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Logica\\Logica.csproj",
         "packagesPath": "C:\\Users\\EQUIPO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Logica\\obj\\",
+        "outputPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Logica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EQUIPO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -150,11 +150,11 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\Datos.csproj": {
-                "projectPath": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\Datos.csproj"
+              "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\Datos.csproj": {
+                "projectPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\Datos.csproj"
               },
-              "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj": {
-                "projectPath": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj"
+              "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj"
               }
             }
           }
