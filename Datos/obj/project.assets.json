@@ -6770,11 +6770,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\Datos.csproj",
+      "projectUniqueName": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\datos\\Datos.csproj",
       "projectName": "Datos",
-      "projectPath": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\Datos.csproj",
+      "projectPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\datos\\Datos.csproj",
       "packagesPath": "C:\\Users\\EQUIPO\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\obj\\",
+      "outputPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\datos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EQUIPO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6789,8 +6789,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj": {
-              "projectPath": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj"
+            "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj": {
+              "projectPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj"
             }
           }
         }

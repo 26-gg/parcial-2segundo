@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj": {}
+    "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj": {}
   },
   "projects": {
-    "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj": {
+    "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj",
+        "projectPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\EQUIPO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\obj\\",
+        "outputPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EQUIPO\\AppData\\Roaming\\NuGet\\NuGet.Config"

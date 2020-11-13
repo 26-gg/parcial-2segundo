@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pz9tvlvETCNqypDcuUa+w3c1tQOTvVzKtP6foQaK3u372ebdu1b98jSK1bXiTxJsT5yD7buxyFq9LejrtGDnjg==",
+  "dgSpecHash": "VYFtJE/K0AXAbPRXWx9bNUyxNAbeIV5e9cTMDH7GIMp0uci10rrXxSfMoA1+1WbYFh7+JdlJ/5DKWm4AjrhjYg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj",
+  "projectFilePath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Entity\\Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EQUIPO\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
