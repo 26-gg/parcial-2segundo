@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\datos\\Datos.csproj": {}
+    "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\Datos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\datos\\Datos.csproj": {
+    "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\datos\\Datos.csproj",
+        "projectUniqueName": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\Datos.csproj",
         "projectName": "Datos",
-        "projectPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\datos\\Datos.csproj",
+        "projectPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\Datos.csproj",
         "packagesPath": "C:\\Users\\EQUIPO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\datos\\obj\\",
+        "outputPath": "C:\\Users\\EQUIPO\\Documents\\web\\SegundoParcial\\Datos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EQUIPO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -44,11 +44,11 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.0.10, )"
             }
           },
           "imports": [
