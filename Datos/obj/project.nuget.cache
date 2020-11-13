@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mBQGST4Qsgja1drYZl+QflXXqPGTdsJvqM45UvPw/p3oVic9piEDj2K30+06VHsF/pY4ip6EOstJpYJ1bYbctA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LUISK\\Documents\\web\\SegundoParcial\\Datos\\Datos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LUISK\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LUISK\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

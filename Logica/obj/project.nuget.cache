@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6VJyvfcAR6ralQj+cKAyjbkdqnLkIdMjR+OM/r51ev9Hfc1csyhakSU/8M4XN3BPW2N11OjE6mQEtNGp2n1mMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LUISK\\Documents\\web\\SegundoParcial\\Logica\\Logica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LUISK\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LUISK\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
